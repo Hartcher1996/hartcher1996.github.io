@@ -7,12 +7,14 @@
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/2023/09/02/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/",
-            "url": "http://example.com/2023/09/02/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/",
-            "title": "文章标题",
+            "id": "http://example.com/2023/09/02/CC++%20main%E5%87%BD%E6%95%B0%E7%9A%84argv[]/",
+            "url": "http://example.com/2023/09/02/CC++%20main%E5%87%BD%E6%95%B0%E7%9A%84argv[]/",
+            "title": "C/C++ main函数的argv[]",
             "date_published": "2023-09-01T20:00:07.079Z",
-            "content_html": "<h3 id=\"测试标题1\"><a class=\"anchor\" href=\"#测试标题1\">#</a> 测试标题 1</h3>\n",
-            "tags": []
+            "content_html": "<figure class=\"highlight c\"><figcaption data-lang=\"c\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token macro property\"><span class=\"token directive-hash\">#</span><span class=\"token directive keyword\">include</span> <span class=\"token string\">&lt;iostream></span></span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre>using namespace std<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"3\"></td><td><pre><span class=\"token keyword\">int</span> <span class=\"token function\">main</span><span class=\"token punctuation\">(</span><span class=\"token keyword\">int</span> argc<span class=\"token punctuation\">,</span><span class=\"token keyword\">char</span><span class=\"token operator\">*</span> argv<span class=\"token punctuation\">[</span><span class=\"token punctuation\">]</span> <span class=\"token punctuation\">)</span> <span class=\"token punctuation\">&#123;</span></pre></td></tr><tr><td data-num=\"4\"></td><td><pre>\t<span class=\"token keyword\">for</span> <span class=\"token punctuation\">(</span><span class=\"token keyword\">int</span> i <span class=\"token operator\">=</span> <span class=\"token number\">1</span><span class=\"token punctuation\">;</span> i <span class=\"token operator\">&lt;</span> argc<span class=\"token punctuation\">;</span> i<span class=\"token operator\">++</span><span class=\"token punctuation\">)</span></pre></td></tr><tr><td data-num=\"5\"></td><td><pre>\t\tcout <span class=\"token operator\">&lt;&lt;</span> argv<span class=\"token punctuation\">[</span>i<span class=\"token punctuation\">]</span> <span class=\"token operator\">&lt;&lt;</span> endl<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"6\"></td><td><pre>\t<span class=\"token keyword\">return</span> <span class=\"token number\">0</span><span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"7\"></td><td><pre><span class=\"token punctuation\">&#125;</span></pre></td></tr></table></figure><p>argv [0] 是文件名</p>\n<p>argv [1] 开始是第一个参数</p>\n<p>argv [2] 第二个参数</p>\n<p>...</p>\n",
+            "tags": [
+                "C/C++"
+            ]
         },
         {
             "id": "http://example.com/2023/09/02/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/",
