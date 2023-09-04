@@ -2,13 +2,13 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "清梦的博客",
     "subtitle": "努力学习-珍惜时间",
-    "icon": "http://example.com/assets/favicon.ico",
+    "icon": "https://www.hartcher.top/assets/favicon.ico",
     "description": "正在学习C++和python",
-    "home_page_url": "http://example.com",
+    "home_page_url": "https://www.hartcher.top",
     "items": [
         {
-            "id": "http://example.com/2023/09/02/CC++%20main%E5%87%BD%E6%95%B0%E7%9A%84argv[]/",
-            "url": "http://example.com/2023/09/02/CC++%20main%E5%87%BD%E6%95%B0%E7%9A%84argv[]/",
+            "id": "https://www.hartcher.top/posts/7862.html",
+            "url": "https://www.hartcher.top/posts/7862.html",
             "title": "C/C++ main函数的argv[]",
             "date_published": "2023-09-01T20:00:07.079Z",
             "content_html": "<figure class=\"highlight c\"><figcaption data-lang=\"c\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token macro property\"><span class=\"token directive-hash\">#</span><span class=\"token directive keyword\">include</span> <span class=\"token string\">&lt;iostream></span></span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre>using namespace std<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"3\"></td><td><pre><span class=\"token keyword\">int</span> <span class=\"token function\">main</span><span class=\"token punctuation\">(</span><span class=\"token keyword\">int</span> argc<span class=\"token punctuation\">,</span><span class=\"token keyword\">char</span><span class=\"token operator\">*</span> argv<span class=\"token punctuation\">[</span><span class=\"token punctuation\">]</span> <span class=\"token punctuation\">)</span> <span class=\"token punctuation\">&#123;</span></pre></td></tr><tr><td data-num=\"4\"></td><td><pre>\t<span class=\"token keyword\">for</span> <span class=\"token punctuation\">(</span><span class=\"token keyword\">int</span> i <span class=\"token operator\">=</span> <span class=\"token number\">1</span><span class=\"token punctuation\">;</span> i <span class=\"token operator\">&lt;</span> argc<span class=\"token punctuation\">;</span> i<span class=\"token operator\">++</span><span class=\"token punctuation\">)</span></pre></td></tr><tr><td data-num=\"5\"></td><td><pre>\t\tcout <span class=\"token operator\">&lt;&lt;</span> argv<span class=\"token punctuation\">[</span>i<span class=\"token punctuation\">]</span> <span class=\"token operator\">&lt;&lt;</span> endl<span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"6\"></td><td><pre>\t<span class=\"token keyword\">return</span> <span class=\"token number\">0</span><span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"7\"></td><td><pre><span class=\"token punctuation\">&#125;</span></pre></td></tr></table></figure><p>argv [0] 是文件名</p>\n<p>argv [1] 开始是第一个参数</p>\n<p>argv [2] 第二个参数</p>\n<p>...</p>\n",
@@ -17,8 +17,8 @@
             ]
         },
         {
-            "id": "http://example.com/2023/09/02/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/",
-            "url": "http://example.com/2023/09/02/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/",
+            "id": "https://www.hartcher.top/posts/58489.html",
+            "url": "https://www.hartcher.top/posts/58489.html",
             "title": "第一篇文章",
             "date_published": "2023-09-01T16:07:33.225Z",
             "content_html": "<p>​\t泪奔<sub>经过两天的折腾总算把这个 hexo 安排明白了</sub></p>\n<p>​\t习惯了动态网站，遇到这种静态的真的好难理解。</p>\n<p>​\t接下来该想想更新点啥东西了～<span class=\"spoiler\" title=\"你知道得太多了\"> 先躺平一下下</span></p>\n",
